@@ -39,7 +39,7 @@
     "gulp-terser": "^1.2.0",
     "gulp-w3c-html-validator": "^2.0.1",
     "gulp-webp": "^4.0.1",
-    "stylelint": "^13.5.0",
+    "stylelint": "^15.10.1",
     "stylelint-config-htmlacademy": "^0.1.4"
   },
   "scripts": {
